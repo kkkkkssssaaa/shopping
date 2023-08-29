@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    flex-direction: column;
+}
+
+nav h1{
+margin-bottom: 25px;
+}
+
+nav ul{
+    margin-bottom: 20px;
+}
+
+.content .row h1{
+font-size: 40px;
+}
+
+.content .social-media{
+position: absolute;
+top: 90%;
+align-items: center;
+right: 165px;
+justify-content: center;
+display: flex;
+flex-direction: row;
+}
+
+
+.content .social-media i{
+font-size: 15px;
+margin-left: 30px ;
+
+}
